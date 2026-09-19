@@ -112,11 +112,10 @@ A concise submission structure is:
 ```text
 .
 ├── README.md
-├── notebook/
-│   └── chekka.ipynb            # Executed FINAL ConvNeXt notebook
+├ chekka.ipynb            # Executed FINAL ConvNeXt notebook
 ├── figures/                   # Selected figures actually included in the repo
-├── results/                   # Selected small CSV / JSON summaries, if included
-└── .gitignore
+├── tables/                   # Selected small CSV / JSON summaries, if included
+└── 
 ```
 
 **Only include files that are actually present.** The `figures/` and `results/` folders are optional; if they are not uploaded, the executed notebook remains the primary source of the figures and metrics. Do not commit the raw dataset, generated crop images, large model checkpoints, temporary files or credentials.

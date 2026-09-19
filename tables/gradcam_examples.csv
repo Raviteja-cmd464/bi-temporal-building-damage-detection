@@ -1,0 +1,9 @@
+crop_id,disaster,true_label,predicted_label,confidence
+hurricane-matthew_00000152__b0412,hurricane-matthew,no-damage,no-damage,0.9833580851554871
+hurricane-matthew_00000104__b0226,hurricane-matthew,minor-damage,minor-damage,0.582254946231842
+hurricane-matthew_00000104__b0015,hurricane-matthew,major-damage,major-damage,0.8758018612861633
+hurricane-matthew_00000385__b0075,hurricane-matthew,destroyed,destroyed,0.9999082088470459
+hurricane-matthew_00000376__b0000,hurricane-matthew,major-damage,destroyed,0.999064028263092
+hurricane-matthew_00000376__b0024,hurricane-matthew,major-damage,destroyed,0.9989014863967896
+hurricane-matthew_00000385__b0029,hurricane-matthew,major-damage,destroyed,0.9977596998214722
+hurricane-matthew_00000385__b0093,hurricane-matthew,major-damage,destroyed,0.9973434805870056

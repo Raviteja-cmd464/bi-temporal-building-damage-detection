@@ -1,0 +1,2 @@
+disaster,samples,accuracy,balanced_accuracy,macro_f1
+hurricane-matthew,1000,0.395,0.395,0.34111607453309634

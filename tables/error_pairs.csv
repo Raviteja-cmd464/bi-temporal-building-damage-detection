@@ -1,0 +1,5 @@
+true_label,no-damage,minor-damage,major-damage,destroyed
+no-damage,0,71,16,78
+minor-damage,25,0,100,103
+major-damage,32,31,0,141
+destroyed,2,3,3,0

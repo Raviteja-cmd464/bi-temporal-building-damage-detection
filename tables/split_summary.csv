@@ -1,0 +1,4 @@
+split,samples,scenes,disasters,no-damage,minor-damage,major-damage,destroyed
+train,3874,225,9,1764,618,904,588
+validation,948,40,9,486,26,135,301
+test,1000,29,1,250,250,250,250
